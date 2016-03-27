@@ -1,0 +1,1 @@
+g++ BinaryTree.cpp Expand.cpp ExpendDriver.cpp Heap.cpp Huffman.cpp -o Expand

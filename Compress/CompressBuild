@@ -1,0 +1,1 @@
+g++ BinaryTree.cpp Compress.cpp CompressClass.cpp Heap.cpp Huffman.cpp SymbolFrequency.cpp -o Compress
